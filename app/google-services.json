@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "104353670270",
+    "firebase_url": "https://medisend.firebaseio.com",
+    "project_id": "medisend",
+    "storage_bucket": "medisend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104353670270:android:a54647ac1d3b4525bce42f",
+        "android_client_info": {
+          "package_name": "com.example.medi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104353670270-29drtouef2c0nep02ruvvd0jqg1l0fe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medi",
+            "certificate_hash": "cefaf0e9b8a9735ede2f04210c150745e5d9afc1"
+          }
+        },
+        {
+          "client_id": "104353670270-cmgf350j966gfcn930vt2qibiqeojni1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGWswXs5SkkTKeHXxsy-jHgIu-_QbQJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104353670270-cmgf350j966gfcn930vt2qibiqeojni1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104353670270:android:19500051b52cda4cbce42f",
+        "android_client_info": {
+          "package_name": "com.example.medisend2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104353670270-cmgf350j966gfcn930vt2qibiqeojni1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGWswXs5SkkTKeHXxsy-jHgIu-_QbQJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104353670270-cmgf350j966gfcn930vt2qibiqeojni1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
